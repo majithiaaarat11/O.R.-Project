@@ -5,3 +5,7 @@
 
 ## Sentiment_Analysis.ipynb is a notebook for classifying reviews as positive or negative.
 ( It works interactively when downloaded)
+
+### Here's an example
+
+![Example]("S_A_Example.png")
